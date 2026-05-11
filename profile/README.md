@@ -1,13 +1,4 @@
-[ecovent-africa-org-README.md](https://github.com/user-attachments/files/27576116/ecovent-africa-org-README.md)
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resource<div align="center">
+<div align="center">
 
 <img src="https://ecoventafrica.com/social/banner-github.png" alt="VPAY Genesis · Verified gold. On-chain. · Built in Accra." width="100%">
 
@@ -91,7 +82,3 @@ VPAY Genesis is the contemporary form of that bind. The Asante engineering tradi
 **OUR GOLD · OUR OWN VICTORY**
 
 </div>
-s - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
