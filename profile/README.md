@@ -12,15 +12,12 @@ Building **VPAY Genesis** — the only tokenized-gold system where the smart con
 
 </div>
 
----
-
 ## The principle we are built on
 
 > ### **No verification. No token.**
 
 If the hardware says the gold is not present, sealed, and signed — the contract reverts the mint. There is no path to issuance without physics agreeing. Nine smart contracts live on Polygon Mainnet enforce this principle. The system is admined by a 2-of-3 Gnosis Safe.
 
----
 
 ## Three covenants
 
@@ -32,7 +29,6 @@ VPAY Genesis stands on three cryptographic covenants:
 | 🟡 **Mind** | Kommit (IP #2). Pre-inference commitments with bonded reasoning. The model output attests itself, challengeable by anyone. | [Read the spec](https://ecoventafrica.com/technical.html#kommit) |
 | 🟡 **Sovereignty** | `$SOV` token. 1 SOV ≡ $1,000 of attested physical gold. Fixed 100M supply. | [Polygonscan](https://polygonscan.com/address/0x5833ABF0Ecfe61e85682F3720BA4d636084e0eC0) |
 
----
 
 ## Repositories
 
@@ -42,7 +38,6 @@ VPAY Genesis stands on three cryptographic covenants:
 
 More repositories will be opened as VPAY Genesis modules graduate from internal to public review.
 
----
 
 ## Heritage
 
@@ -50,7 +45,6 @@ The first attestation we know of in human history is *Sika Dwa Kofi* — the Gol
 
 VPAY Genesis is the contemporary form of that bind. The Asante engineering tradition — XRF assay rooms in Obuasi, the Royal Goldsmiths' guild, three centuries of metallurgical rigor — is not our inspiration. It is our lineage.
 
----
 
 ## Where to read next
 
@@ -61,7 +55,6 @@ VPAY Genesis is the contemporary form of that bind. The Asante engineering tradi
 - [**/compliance.html**](https://ecoventafrica.com/compliance.html) — AML · KYC · Article 114 · Bank of Ghana GANRAP
 - [**/diligence**](https://ecoventafrica.com/diligence) — NDA-gated diligence pack request
 
----
 
 ## Contact
 
@@ -73,7 +66,6 @@ VPAY Genesis is the contemporary form of that bind. The Asante engineering tradi
 **Ano Yoofi Agyei** — Founder & CEO
 [LinkedIn](https://www.linkedin.com/in/anoagyei)
 
----
 
 <div align="center">
 
